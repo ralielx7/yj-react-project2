@@ -5,7 +5,7 @@ export default function Profile() {
     return (
         <Layout>
             <Box py="140px">
-                <Text>프로필</Text>
+                <Text>연락처</Text>
             </Box>
         </Layout>
     );
