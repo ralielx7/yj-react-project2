@@ -1,7 +1,7 @@
 import { Text, Box } from "@chakra-ui/react";
 import Layout from "./Layout";
 
-export default function Profile() {
+export default function Contact() {
     return (
         <Layout>
             <Box py="140px">
